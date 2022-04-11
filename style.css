@@ -1,7 +1,9 @@
 body {
     margin: 0;
     padding: 0;
-    background-color: bisque;
+    background-color: bisque;    
+    font-family: 'Coustard', serif;
+    font-family: 'Heebo', sans-serif;
 }
 
 section {
@@ -28,4 +30,8 @@ a {
 a:hover {
     cursor: pointer;
     color: brown;
+}
+
+h1 h2 h3 {
+    font-style: italic;
 }
